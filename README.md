@@ -18,7 +18,7 @@ Desde ese entonces, he colaborado estrechamente con PYMES, guiándolas a través
 
 Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compartiendo contenido en programación y ciencia de datos en canales como YouTube y Twitch, y ofreciendo cursos en Udemy. Me mueve el deseo de retribuir a la comunidad, compartiendo generosamente el conocimiento que otros han invertido en mí.
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-ES/) (Most Valuable Professional) 2024 in progress
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
