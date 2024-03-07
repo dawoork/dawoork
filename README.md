@@ -10,12 +10,13 @@
 ![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/dawoork?style=social)
 
-Soy cientifico de datos profesional desde hace más de cinco años.
+Soy un apasionado del Data Science con más de cinco años de experiencia convirtiendo datos en decisiones inteligentes.
 
-En 2018 dejé mi trabajo en una multinacional y creé [**Dawoork**](https://dawoork.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
+✨ En 2018, tomé la audaz decisión de dejar mi puesto en una corporación internacional para fundar. [**Dawoork**](https://dawoork.com),Dawoork nació de mi visión de crecimiento personal y profesional en el vibrante mundo del análisis y procesamiento de datos.
 
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+Desde ese entonces, he colaborado estrechamente con PYMES, guiándolas a través del laberinto del Big Data, y ayudándolas a maximizar sus operaciones a través de insights accionables, todo mientras se ajustan a presupuestos ajustados.
+
+Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compartiendo contenido en programación y ciencia de datos en canales como YouTube y Twitch, y ofreciendo cursos en Udemy. Me mueve el deseo de retribuir a la comunidad, compartiendo generosamente el conocimiento que otros han invertido en mí.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 
