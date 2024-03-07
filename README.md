@@ -1,5 +1,5 @@
 # Hola, mi nombre es Leandro Araque 👋
-### Freelance full-stack iOS & Android engineer
+### Data Analyst & Data Scientist
 
 ![https://github.com/dawoork](https://github.com/dawoork/dawoork/blob/main/Banner.png)
 
