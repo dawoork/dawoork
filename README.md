@@ -7,8 +7,8 @@
 [![Twitch Status](https://img.shields.io/twitch/status/dawoork?style=social)](https://www.twitch.tv/dawoork)
 [![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](https://discord.gg/TNNA4CbnaQ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/dawoork?style=social)
 
 Soy ingeniero de software profesional desde hace más de doce años.
 
