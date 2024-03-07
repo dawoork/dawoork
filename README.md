@@ -12,7 +12,7 @@
 
 Soy un apasionado del Data Science con más de cinco años de experiencia convirtiendo datos en decisiones inteligentes.
 
-✨ En 2018, tomé la decisión de dejar mi puesto en una corporación internacional para fundar. [**Dawoork**](https://dawoork.com),Dawoork nació de mi visión de crecimiento personal y profesional en el vibrante mundo del análisis y procesamiento de datos.
+✨ En 2018, tomé la decisión de dejar mi puesto en una corporación internacional para fundar. [**Dawoork**](https://dawoork.com),nació de mi visión de crecimiento personal y profesional en el vibrante mundo del análisis y procesamiento de datos.
 
 Desde ese entonces, he colaborado estrechamente con PYMES, guiándolas a través del laberinto del Big Data, y ayudándolas a maximizar sus operaciones a través de insights accionables, todo mientras se ajustan a presupuestos ajustados.
 
