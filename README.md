@@ -166,7 +166,7 @@ Y alguna más...
 ## Power BI: Curso gratis - Proximamente...
 ![https://mouredev.com/git](./git_github_banner.png)
 
-[![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
+[![Curso Git](https://img.shields.io/github/stars/dawoork/power-bi-hello?label=Curso%20Power%20BI&style=social)](https://github.com/dawoork/power-bi-hello)
 
 ## Un día, un lenguaje: Primeros pasos en 10 lenguajes
 ![https://mouredev.com/lenguajes](./un_dia_un_lenguaje_banner.png)
