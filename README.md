@@ -157,23 +157,13 @@ Y alguna más...
 [![Data Analytics Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analytics-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Analytics-Roadmap)
 [![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
 
-# Los proyectos de la comunidad
 
-## Retos de programación de la comunidad:
-
-![https://retosdeprogramacion.com](./retos_programacion_banner.png)
-
-#### Cada semana un nuevo reto para mejorar nuestra lógica de programación desde [retosdeprogramacion.com](https://retosdeprogramacion.com)
-
-[![GitHub Weekly 2023](https://img.shields.io/github/stars/mouredev/retos-programacion-2023?label=Retos%20Semanales%202023&style=social)](https://github.com/mouredev/retos-programacion-2023)
-[![GitHub Weekly Kotlin 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-
-## Python desde cero: Curso gratis
+## SQL Server desde cero: Curso gratis - Proximamente
 ![https://mouredev.com/python](./python_banner.png)
 
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
+[![Curso Python](https://img.shields.io/github/stars/mouredev/sql-hello?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/dawoork/sql-hello)
 
-## Git & GitHub desde cero: Curso gratis
+## Power BI: Curso gratis - Proximamente...
 ![https://mouredev.com/git](./git_github_banner.png)
 
 [![Curso Git](https://img.shields.io/github/stars/mouredev/hello-git?label=Curso%20Git%20y%20GitHub&style=social)](https://github.com/mouredev/hello-git)
