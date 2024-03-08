@@ -20,15 +20,56 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-ES/) (Most Valuable Professional) 2024 in progress
 
-## Tecnologías:
+## Tecnologías Análisis de datos:
+### SQL y Bases de datos relacionales 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft_SQL_Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)]()
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)]()
-[![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
+### Herramientas de visualización de Datos
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-FF4B4B?style=for-the-badge&logo=qlik&logoColor=white)
+
+### Herramientas de Cálculo
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+### Herramientas de BI
+![SAP](https://img.shields.io/badge/SAP_Business_Objects-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Oracle_BI](https://img.shields.io/badge/Oracle_BI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Herramientas de ETL
+![Informatica](https://img.shields.io/badge/Informatica-FF4F00?style=for-the-badge&logo=informatica&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-1675BC?style=for-the-badge&logo=talend&logoColor=white)
+![Apache_NiFi](https://img.shields.io/badge/Apache_NiFi-017CEE?style=for-the-badge&logo=apachenifi&logoColor=white)
+
+### Analítica Web
+![Google_Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Adobe_Analytics](https://img.shields.io/badge/Adobe_Analytics-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+
+### Lenguajes de programación
+![R_Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+### Almacenamiento en la nube
+![Amazon_S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Google_Cloud_Storage](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure_Data_Lake](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+### Big Data
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+
+
+### Sistema de gestion de bases datos
+![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
