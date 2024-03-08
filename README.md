@@ -73,7 +73,6 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 ![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Sistema de gestion de bases datos
-![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logo![Firestore](https://img.shields.io/badge/Firestore-4285F4?style=for-the-badge&logo=firebase&logoColor=white)
 ![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -128,14 +127,13 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 ![Azure Kubernetes Service](https://img.shields.io/badge/Azure_Kubernetes_Service-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Container Instances](https://img.shields.io/badge/Azure_Container_Instances-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### Herramientas de despliegue de modelados
+### Herramientas de despliegue de Modelos
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure Machine Learning](https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Herramientas de Experimentación y Pruebas A/B
-![Optimize](https://img.shields.io/badge/Optimize-4285F4?style=for-the-badge&logo=google-optimize&logoColor=white)
 ![Google_Optimize](https://img.shields.io/badge/Google_Optimize-B366F6?style=for-the-badge)
-
+![Azure Machine Learning](https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 Y alguna más...
 
