@@ -72,7 +72,7 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 
 ## Tecnologías Ciencia de datos:
 
-### Lenguajes de programación
+### Lenguajes de programación (Librerias)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
