@@ -141,18 +141,18 @@ Y alguna más...
 
 [![YouTube](https://img.shields.io/badge/YouTube-Dawoork_by_Leandro_Araque-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@dawoork)
 </br>
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dawoork)
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/TNNA4CbnaQ)
+[![Twitch](https://img.shields.io/badge/Twitch-Dawoork-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dawoork)
+[![Discord](https://img.shields.io/badge/Discord-Dawoork-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/TNNA4CbnaQ)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/x)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/dawoork)
-[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@dawoork)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/dawoork)
+[![Twitter](https://img.shields.io/badge/Twitter-@mdawoork-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/x)
+[![Instagram](https://img.shields.io/badge/Instagram-@dawoorkv-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/dawoork)
+[![TikTok](https://img.shields.io/badge/TikTok-@dawoork-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@dawoork)
+[![Facebook](https://img.shields.io/badge/Facebook-@dawoork-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/dawoork)
 </br>
-[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dawoork.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandroaraque)
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](x)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dawoork.com)
+[![Link](https://img.shields.io/badge/Link_Site-dawoor.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dawoork.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro_Araque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandroaraque)
+[![Udemy](https://img.shields.io/badge/Udemy-Leandro_Araque-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](x)
+[![Web](https://img.shields.io/badge/Web-dawoork.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dawoork.com)
 
 ## Mis guías de estudio iOS y Android:
 [![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
