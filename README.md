@@ -153,7 +153,7 @@ Y alguna más...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro_Araque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandroaraque)
 [![Udemy](https://img.shields.io/badge/Udemy-Leandro_Araque-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](x)
 
-## Mis guías de estudio iOS y Android:
+## Mis rutas de aprendizaje 
 [![Data Analytics Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analytics-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Analytics-Roadmap)
 [![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
 
