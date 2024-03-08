@@ -154,7 +154,7 @@ Y alguna más...
 [![Udemy](https://img.shields.io/badge/Udemy-Leandro_Araque-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](x)
 
 ## Mis guías de estudio iOS y Android:
-[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
+[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/dawoork/Data-Analytics-Roadmap)
 [![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
 
 # Los proyectos de la comunidad
