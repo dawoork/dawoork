@@ -62,13 +62,68 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 
 ### Big Data
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-
+![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ### Sistema de gestion de bases datos
 ![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+## Tecnologías Ciencia de datos:
+
+### Lenguajes de programación
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+### Big Data Processing
+![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache_Flink](https://img.shields.io/badge/Apache_Flink-1DA1F2?style=for-the-badge&logo=apache-flink&logoColor=white)
+
+### Machine learning Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+### Notebooks Interactivos
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![R_Markdown](https://img.shields.io/badge/R_Markdown-1F425F?style=for-the-badge)
+
+
+### Version Control y colaboración
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+
+### Automatización y Orquestación de Workflow
+![Apache_Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Luigi](https://img.shields.io/badge/Luigi-5C5C5C?style=for-the-badge)
+
+
+### Almacenamiento y procesamiento en la Nube
+![AWS_SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+### Contenedores y microservicios
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+### Herramientas de despliegue de modelados
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![TFX](https://img.shields.io/badge/TFX-FF6F00?style=for-the-badge)
+
+
+### Herramientas de Experimentación y Pruebas A/B
+![Optimizely](https://img.shields.io/badge/Optimizely-C15C26?style=for-the-badge)
+![Google_Optimize](https://img.shields.io/badge/Google_Optimize-B366F6?style=for-the-badge)
 
 
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
