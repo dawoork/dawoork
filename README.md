@@ -31,7 +31,8 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 ### Herramientas de visualización de Datos
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
-![Qlik](https://img.shields.io/badge/Qlik-FF4B4B?style=for-the-badge&logo=qlik&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google_Data_Studio](https://img.shields.io/badge/Data_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Herramientas de Cálculo
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -40,15 +41,18 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 ### Herramientas de BI
 ![SAP](https://img.shields.io/badge/SAP_Business_Objects-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Oracle_BI](https://img.shields.io/badge/Oracle_BI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Azure_Analysis_Services](https://img.shields.io/badge/Azure_Analysis_Services-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Herramientas de ETL
-![Informatica](https://img.shields.io/badge/Informatica-FF4F00?style=for-the-badge&logo=informatica&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure_Data_Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-1675BC?style=for-the-badge&logo=talend&logoColor=white)
 ![Apache_NiFi](https://img.shields.io/badge/Apache_NiFi-017CEE?style=for-the-badge&logo=apachenifi&logoColor=white)
 
 ### Analítica Web
 ![Google_Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Adobe_Analytics](https://img.shields.io/badge/Adobe_Analytics-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 
 ### Lenguajes de programación
@@ -65,12 +69,14 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 ### Big Data
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 ![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Sistema de gestion de bases datos
 ![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logo![Firestore](https://img.shields.io/badge/Firestore-4285F4?style=for-the-badge&logo=firebase&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## Tecnologías Ciencia de datos:
 
@@ -81,14 +87,17 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 
 
 ### Big Data Processing
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Apache_Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache_Flink](https://img.shields.io/badge/Apache_Flink-1DA1F2?style=for-the-badge&logo=apache-flink&logoColor=white)
 
 ### Machine learning Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure Machine Learning](https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### Notebooks Interactivos
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -99,12 +108,11 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
 ### Automatización y Orquestación de Workflow
 ![Apache_Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Luigi](https://img.shields.io/badge/Luigi-5C5C5C?style=for-the-badge)
+![Azure Logic Apps](https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
 ### Almacenamiento y procesamiento en la Nube
@@ -116,15 +124,16 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 ### Contenedores y microservicios
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+![Google Kubernetes Engine](https://img.shields.io/badge/Google_Kubernetes_Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure Kubernetes Service](https://img.shields.io/badge/Azure_Kubernetes_Service-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Container Instances](https://img.shields.io/badge/Azure_Container_Instances-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Herramientas de despliegue de modelados
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![TFX](https://img.shields.io/badge/TFX-FF6F00?style=for-the-badge)
-
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure Machine Learning](https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Herramientas de Experimentación y Pruebas A/B
-![Optimizely](https://img.shields.io/badge/Optimizely-C15C26?style=for-the-badge)
+![Optimize](https://img.shields.io/badge/Optimize-4285F4?style=for-the-badge&logo=google-optimize&logoColor=white)
 ![Google_Optimize](https://img.shields.io/badge/Google_Optimize-B366F6?style=for-the-badge)
 
 
