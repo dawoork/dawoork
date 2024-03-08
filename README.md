@@ -158,7 +158,7 @@ Y alguna más...
 [![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
 
 
-## SQL Server desde cero: Curso gratis - Proximamente
+## SQL Server desde cero: Curso gratis - Proximamente...
 ![https://mouredev.com/python](./python_banner.png)
 
 [![Curso SQL Server](https://img.shields.io/github/stars/dawoork/sql-server-hello?label=Curso%20SQL%20Server%20desde%20cero&style=social)](https://github.com/dawoork/sql-server-hello)
