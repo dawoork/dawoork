@@ -161,7 +161,7 @@ Y alguna más...
 ## SQL Server desde cero: Curso gratis - Proximamente
 ![https://mouredev.com/python](./python_banner.png)
 
-[![Curso SQL Server](https://img.shields.io/github/stars/mouredev/sql-hello?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/dawoork/sql-hello)
+[![Curso SQL Server](https://img.shields.io/github/stars/mouredev/sql-hello?label=Curso%20SQL%20Server%20desde%20cero&style=social)](https://github.com/dawoork/sql-hello)
 
 ## Power BI: Curso gratis - Proximamente...
 ![https://mouredev.com/git](./git_github_banner.png)
