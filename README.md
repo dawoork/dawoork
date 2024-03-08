@@ -74,7 +74,7 @@ Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compa
 
 ### Sistema de gestion de bases datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logo![Firestore](https://img.shields.io/badge/Firestore-4285F4?style=for-the-badge&logo=firebase&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## Tecnologías Ciencia de datos:
