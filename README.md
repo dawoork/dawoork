@@ -16,7 +16,7 @@ Soy un apasionado del Data Science con más de cinco años transformando datos e
 
 Desde entonces, he trabajado mano a mano con empresas de diversos tamaños, guiándolas en la construcción de su arquitectura de datos y alumbrando el camino a través del complejo universo del Big Data.
 
-Me percaté de que un desafío crucial para estas empresas es contar con personal cualificado capaz de gestionar y mantener estas infraestructuras de manera eficaz. Este entendimiento redefinió el enfoque de [**Dawoork**](https://dawoork.com)hacia la capacitación de tales profesionales.
+Me percaté de que un desafío crucial para estas empresas es contar con personal cualificado capaz de gestionar y mantener estas infraestructuras de manera eficaz. Este entendimiento redefinió el enfoque de [**Dawoork**](https://dawoork.com) hacia la capacitación de tales profesionales.
 
 Al arribar el 2024, decidí ampliar mi huella digital, generando y compartiendo contenido sobre programación y ciencia de datos a través de plataformas como YouTube y Twitch, así como ofreciendo cursos en Udemy. Mi motivación radica en la gratitud hacia la comunidad que me formó, y mi compromiso es devolver ese conocimiento de manera altruista. Mi objetivo es no solo inspirarte a incursionar en la ciencia de datos, sino también asistirte en la obtención de tu primer empleo en este campo, continuando así apoyando a las empresas a aprovechar al máximo el potencial de sus datos, creando entornos más eficientes en conjunto.
 
