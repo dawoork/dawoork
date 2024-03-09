@@ -10,13 +10,15 @@
 ![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/dawoork?style=social)
 
-Soy un apasionado del Data Science con más de cinco años de experiencia convirtiendo datos en decisiones inteligentes.
+Soy un apasionado del Data Science con más de cinco años transformando datos en decisiones clave.
 
-✨ En 2018, tomé la decisión de dejar mi puesto en una corporación internacional para fundar. [**Dawoork**](https://dawoork.com), nació de mi visión de crecimiento personal y profesional en el vibrante mundo del análisis y procesamiento de datos.
+✨ En 2018, tomé la decisión de dejar mi puesto en una multinacional para fundar. [**Dawoork**](https://dawoork.com),  con la misión de democratizar el uso de datos.
 
-Desde ese entonces, he colaborado estrechamente con PYMES, guiándolas a través del laberinto del Big Data, y ayudándolas a maximizar sus operaciones a través de insights accionables, todo mientras se ajustan a presupuestos ajustados.
+Desde entonces, he trabajado mano a mano con empresas de diversos tamaños, guiándolas en la construcción de su arquitectura de datos y alumbrando el camino a través del complejo universo del Big Data.
 
-Con el inicio de 2024, comencé a expandir mi presencia digital, creando y compartiendo contenido en programación y ciencia de datos en canales como YouTube y Twitch, y ofreciendo cursos en Udemy. Me mueve el deseo de retribuir a la comunidad, compartiendo generosamente el conocimiento que otros han invertido en mí.
+Me percaté de que un desafío crucial para estas empresas es contar con personal cualificado capaz de gestionar y mantener estas infraestructuras de manera eficaz. Este entendimiento redefinió el enfoque de [**Dawoork**](https://dawoork.com)hacia la capacitación de tales profesionales.
+
+Al arribar el 2024, decidí ampliar mi huella digital, generando y compartiendo contenido sobre programación y ciencia de datos a través de plataformas como YouTube y Twitch, así como ofreciendo cursos en Udemy. Mi motivación radica en la gratitud hacia la comunidad que me formó, y mi compromiso es devolver ese conocimiento de manera altruista. Mi objetivo es no solo inspirarte a incursionar en la ciencia de datos, sino también asistirte en la obtención de tu primer empleo en este campo, continuando así apoyando a las empresas a aprovechar al máximo el potencial de sus datos, creando entornos más eficientes en conjunto.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-ES/) (Most Valuable Professional) 2024 in progress
 
