@@ -1,7 +1,7 @@
 # Hola, mi nombre es Leandro Araque 👋
 ### Data Analyst & Data Scientist
 
-![https://github.com/dawoork](https://github.com/dawoork/dawoork/blob/main/Banner_v2.jpg)
+![https://github.com/dawoork](https://github.com/dawoork/dawoork/blob/main/Banner_v3.jpg)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC19UkylFnVp-B3fUvpBTCGA?style=social)](https://www.youtube.com/@dawoork?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/dawoork?style=social)](https://www.twitch.tv/dawoork)
