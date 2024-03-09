@@ -20,7 +20,7 @@ Me percaté de que un desafío crucial para estas empresas es contar con persona
 
 Como educador en análisis de datos y ciencia de datos, he dedicado varios años a pulir mis habilidades pedagógicas, buscando siempre las maneras más efectivas de compartir conocimientos complejos de forma comprensible y aplicable. Este 2024 marca el inicio de un nuevo capítulo en mi carrera: la expansión de mi presencia digital.
 
-Estoy generando y compartiendo contenido enriquecedor sobre programación, análisis de datos y ciencia de datos a través de plataformas digitales como YouTube y Twitch, además de diseñar y ofrecer cursos especializados en Udemy. Esta iniciativa nace de mi profundo agradecimiento a la comunidad que impulsó mi crecimiento, y es mi manera de devolver el favor de forma altruista.
+Estoy generando y compartiendo contenido enriquecedor sobre programación enfocada al análisis de datos y ciencia de datos a través de plataformas digitales como YouTube y Twitch, además de diseñar y ofrecer cursos especializados en Udemy. Esta iniciativa nace de mi profundo agradecimiento a la comunidad que impulsó mi crecimiento, y es mi manera de devolver el favor de forma altruista.
 
 Mi ambición no se detiene en inspirarte a explorar estas áreas críticas; me propongo guiarte hacia la obtención de tu primer empleo en el campo, fortaleciendo así el vínculo entre educación y acción. Continúo apoyando a empresas en la optimización de sus datos, promoviendo entornos de trabajo eficientes y demostrando que la educación continua es el pilar para el avance profesional.
 
