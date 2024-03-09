@@ -18,7 +18,11 @@ Desde entonces, he trabajado mano a mano con empresas de diversos tamaños, gui�
 
 Me percaté de que un desafío crucial para estas empresas es contar con personal cualificado capaz de gestionar y mantener estas infraestructuras de manera eficaz. Este entendimiento redefinió el enfoque de [**Dawoork**](https://dawoork.com) hacia la capacitación de tales profesionales.
 
-Al arribar el 2024, decidí ampliar mi huella digital, generando y compartiendo contenido sobre programación y ciencia de datos a través de plataformas como YouTube y Twitch, así como ofreciendo cursos en Udemy. Mi motivación radica en la gratitud hacia la comunidad que me formó, y mi compromiso es devolver ese conocimiento de manera altruista. Mi objetivo es no solo inspirarte a incursionar en la ciencia de datos, sino también asistirte en la obtención de tu primer empleo en este campo, continuando así apoyando a las empresas a aprovechar al máximo el potencial de sus datos, creando entornos más eficientes en conjunto.
+Como educador en análisis de datos y ciencia de datos, he dedicado varios años a pulir mis habilidades pedagógicas, buscando siempre las maneras más efectivas de compartir conocimientos complejos de forma comprensible y aplicable. Este 2024 marca el inicio de un nuevo capítulo en mi carrera: la expansión de mi presencia digital.
+
+Estoy generando y compartiendo contenido enriquecedor sobre programación, análisis de datos y ciencia de datos a través de plataformas digitales como YouTube y Twitch, además de diseñar y ofrecer cursos especializados en Udemy. Esta iniciativa nace de mi profundo agradecimiento a la comunidad que impulsó mi crecimiento, y es mi manera de devolver el favor de forma altruista.
+
+Mi ambición no se detiene en inspirarte a explorar estas áreas críticas; me propongo guiarte hacia la obtención de tu primer empleo en el campo, fortaleciendo así el vínculo entre educación y acción. Continúo apoyando a empresas en la optimización de sus datos, promoviendo entornos de trabajo eficientes y demostrando que la educación continua es el pilar para el avance profesional.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-ES/) (Most Valuable Professional) 2024 in progress
 
