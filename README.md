@@ -170,7 +170,7 @@ Y alguna más...
 [![Curso SQL Server](https://img.shields.io/github/stars/dawoork/sql-server-hello?label=Curso%20SQL%20Server%20desde%20cero&style=social)](https://github.com/dawoork/sql-server-hello)
 
 ## Power BI: Curso gratis - Proximamente...
-![https://mouredev.com/git](./git_github_banner.png)
+![https://mouredev.com/git](https://github.com/dawoork/dawoork/blob/main/Power_BI.jpg)
 
 [![Curso Git](https://img.shields.io/github/stars/dawoork/power-bi-hello?label=Curso%20Power%20BI&style=social)](https://github.com/dawoork/power-bi-hello)
 
