@@ -165,7 +165,7 @@ Y alguna más...
 
 
 ## SQL Server desde cero: Curso gratis - Proximamente...
-![https://mouredev.com/python](./python_banner.png)
+![https://mouredev.com/python](https://github.com/dawoork/dawoork/blob/main/SQL_Server_Banner.jpg)
 
 [![Curso SQL Server](https://img.shields.io/github/stars/dawoork/sql-server-hello?label=Curso%20SQL%20Server%20desde%20cero&style=social)](https://github.com/dawoork/sql-server-hello)
 
