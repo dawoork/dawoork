@@ -186,7 +186,7 @@ Y alguna más...
 ## Python: Curso gratis - Proximamente...
 ![https://dawoork.com](https://github.com/dawoork/dawoork/blob/main/Python_desde-cero.jpg)
 
-[![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
+[![Curso Lenguajes](https://img.shields.io/github/stars/dawoork/python_data_hello?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/dawoork/python_data_hello)
 
 ## Algunos vídeos en YouTube:
 
