@@ -26,7 +26,7 @@ Mi ambición no se detiene en inspirarte a explorar estas áreas críticas; me p
 
 
 👇👇👇👇👇</br>
-🚀 **[Participa en nuestra encuesta y forma el futuro de nuestro contenido](https://forms.office.com/r/DzH2CTBXAH?origin=lprLink)** 🌟
+🚀 **[¡Ayúdame a ayudarte! ¿De qué te gustaría el contenido que comparta?](https://forms.office.com/r/DzH2CTBXAH?origin=lprLink)** 🌟
 
 
 
