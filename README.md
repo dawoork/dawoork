@@ -179,11 +179,11 @@ Y alguna más...
 [![Curso SQL Server](https://img.shields.io/github/stars/dawoork/sql-server-hello?label=Curso%20SQL%20Server%20desde%20cero&style=social)](https://github.com/dawoork/sql-server-hello)
 
 ## Power BI: Curso gratis - Proximamente...
-![https://mouredev.com/git](https://github.com/dawoork/dawoork/blob/main/Power_BI.jpg)
+(https://github.com/dawoork/dawoork/blob/main/Power_BI.jpg)
 
 [![Curso Git](https://img.shields.io/github/stars/dawoork/power-bi-hello?label=Curso%20Power%20BI&style=social)](https://github.com/dawoork/power-bi-hello)
 
-## Un día, un lenguaje: Primeros pasos en 10 lenguajes
+## Python: Curso gratis - Proximamente...
 ![https://mouredev.com/lenguajes](https://github.com/dawoork/dawoork/blob/main/Python_desde-cero.jpg)
 
 [![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
