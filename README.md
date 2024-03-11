@@ -184,7 +184,7 @@ Y alguna más...
 [![Curso Git](https://img.shields.io/github/stars/dawoork/power-bi-hello?label=Curso%20Power%20BI&style=social)](https://github.com/dawoork/power-bi-hello)
 
 ## Un día, un lenguaje: Primeros pasos en 10 lenguajes
-![https://mouredev.com/lenguajes](./un_dia_un_lenguaje_banner.png)
+![https://mouredev.com/lenguajes](https://github.com/dawoork/dawoork/blob/main/Python_desde-cero.jpg)
 
 [![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
 
