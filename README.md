@@ -24,7 +24,11 @@ Estoy generando y compartiendo contenido enriquecedor sobre programación enfoca
 
 Mi ambición no se detiene en inspirarte a explorar estas áreas críticas; me propongo guiarte hacia la obtención de tu primer empleo en el campo, fortaleciendo así el vínculo entre educación y acción. Continúo apoyando a empresas en la optimización de sus datos, promoviendo entornos de trabajo eficientes y demostrando que la educación continua es el pilar para el avance profesional.
 
+
+👇👇👇👇👇
 🚀 **[Participa en nuestra encuesta y forma el futuro de nuestro contenido](https://forms.office.com/r/DzH2CTBXAH?origin=lprLink)** 🌟
+
+
 
 ¡Tu opinión es esencial para crear el contenido que realmente necesitas! Haz clic en el enlace y cuéntame qué temas te interesan más. ¡Es tu oportunidad de influir en lo que viene! 💡✨
 
