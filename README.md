@@ -198,8 +198,8 @@ Y alguna más...
 </a>
 </td>
 <td>
-<a href="https://youtu.be/-pWSQYpkkjk">
-<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+<a href="https://github.com/dawoork/dawoork/blob/main/Power_Bi_Miniatura_alfa.jpg">
+<img src="https://github.com/dawoork/dawoork/blob/main/Power_Bi_Miniatura_alfa.jpg">
 </a>
 </td>
 <td>
