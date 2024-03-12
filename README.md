@@ -169,7 +169,7 @@ Y alguna más...
 [![Udemy](https://img.shields.io/badge/Udemy-Leandro_Araque-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](x)
 
 ## Mis rutas de aprendizaje 
-[![Data Analytics Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analytics-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Analytics-Roadmap)
+[![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analytics-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Analyst-Roadmap)
 [![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
 
 
