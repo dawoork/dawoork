@@ -193,8 +193,8 @@ Y alguna más...
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://github.com/dawoork/dawoork/blob/main/Miniatura_alfa.jpg">
-<img src="https://github.com/dawoork/dawoork/blob/main/Miniatura_alfa.jpg">
+<a href="https://github.com/dawoork/dawoork/blob/main/Miniatura_alfa_v1.jpg">
+<img src="https://github.com/dawoork/dawoork/blob/main/Miniatura_alfa_v1.jpg">
 </a>
 </td>
 <td>
