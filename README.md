@@ -203,45 +203,12 @@ Y alguna más...
 </a>
 </td>
 <td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+<a href="https://github.com/dawoork/dawoork/blob/main/Python_Miniatura_alfa.jpg">
+<img src="https://github.com/dawoork/dawoork/blob/main/Python_Miniatura_alfa.jpg">
 </a>
 </td>
 </tr>
-<tr>
-<td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/GoAxsdg0Xbs">
-<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/pFyAu4R684s">
-<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/BQaxPwZWboA">
-<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/Wfh0FYR0z6I">
-<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/ebQphhLpJG0">
-<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-</a>
-</td>
-</tr>
+
 </table>
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
