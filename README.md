@@ -193,8 +193,8 @@ Y alguna más...
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<a href="https://github.com/dawoork/dawoork/blob/main/Miniatura_alfa.jpg">
+<img src="https://github.com/dawoork/dawoork/blob/main/Miniatura_alfa.jpg">
 </a>
 </td>
 <td>
