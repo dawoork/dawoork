@@ -10,7 +10,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/dawoork?style=social)
 
-Soy un apasionado del Data Science con más de cinco años transformando datos en decisiones clave.
+Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños.
 
 ✨ En 2018, tomé la decisión de dejar mi puesto en una multinacional para fundar. [**Dawoork**](https://dawoork.com),  con la misión de democratizar el uso de datos.
 
