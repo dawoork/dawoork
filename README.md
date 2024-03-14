@@ -37,7 +37,7 @@ Mi ambición no se detiene en inspirarte a explorar estas áreas críticas; me p
 
 
 ## Mis rutas de aprendizaje 
-[![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analytics-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Data-Analyst-Roadmap)
+[![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analyst-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Data-Analyst-Roadmap)
 [![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
 
 
