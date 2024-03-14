@@ -35,6 +35,12 @@ Mi ambición no se detiene en inspirarte a explorar estas áreas críticas; me p
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-ES/) (Most Valuable Professional) 2024 in progress
 
+
+## Mis rutas de aprendizaje 
+[![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analytics-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Data-Analyst-Roadmap)
+[![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
+
+
 ## Tecnologías Análisis de datos:
 ### SQL y Bases de datos relacionales 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -167,10 +173,6 @@ Y alguna más...
 [![Link](https://img.shields.io/badge/Link_Site-dawoor.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dawoork.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro_Araque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandroaraque)
 [![Udemy](https://img.shields.io/badge/Udemy-Leandro_Araque-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](x)
-
-## Mis rutas de aprendizaje 
-[![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analytics-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Data-Analyst-Roadmap)
-[![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
 
 
 ## SQL Server desde cero: Curso gratis - Proximamente...
