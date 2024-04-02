@@ -165,7 +165,7 @@ Y alguna más...
 [![Twitch](https://img.shields.io/badge/Twitch-Dawoork-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/dawoork)
 [![Discord](https://img.shields.io/badge/Discord-Dawoork-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://dawoork.com/discord)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@dawoork-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/x)
+[![Twitter](https://img.shields.io/badge/Twitter-@dawoork-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/lean_dawoork)
 [![Instagram](https://img.shields.io/badge/Instagram-@dawoork-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/dawoork)
 [![TikTok](https://img.shields.io/badge/TikTok-@dawoork-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@dawoork)
 [![Facebook](https://img.shields.io/badge/Facebook-@dawoork-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/dawoork)
