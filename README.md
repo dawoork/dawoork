@@ -37,9 +37,8 @@ Mi ambición no se detiene en inspirarte a explorar estas áreas críticas; me p
 
 ## Retos con Datos en comunidad
 
-## SQL Server desde cero: Curso gratis - Proximamente...
 ![https://github.com/dawoork/roadmap-retos-datos](https://github.com/dawoork/roadmap-retos-datos/blob/main/Images/header_retos.jpg)
-
+Cada semana un nuevo reto para mejorar nuestros skills como analista o cientificos de datos [Dawoork/retos](https://dawoork.com/retos/)
 
 ## Mis rutas de aprendizaje 
 [![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analyst-Roadmap?label=Data%20Analyst%20Roadmap&style=social)](https://github.com/dawoork/Data-Data-Analyst-Roadmap)
