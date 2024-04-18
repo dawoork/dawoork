@@ -172,7 +172,7 @@ Y alguna más...
 </br>
 [![Link](https://img.shields.io/badge/Link_Site-dawoor.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dawoork.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro_Araque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandroaraque)
-[![Udemy](https://img.shields.io/badge/Udemy-Leandro_Araque-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](x)
+[![Udemy](https://img.shields.io/badge/Udemy-Leandro_Araque-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://dawoork.com/whitelist/)
 
 
 ## SQL Server desde cero: Curso gratis - Proximamente...
