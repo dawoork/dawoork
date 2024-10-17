@@ -37,6 +37,9 @@ Mi ambición no se detiene en inspirarte a explorar estas áreas críticas; me p
 
 ## Retos con Datos en comunidad
 
+[![Presentación](https://github.com/dawoork/roadmap-retos-datos/raw/main/Images/header_retos.jpg)](https://dawoork.com/retos/)
+
+
 ![https://github.com/dawoork/roadmap-retos-datos](https://github.com/dawoork/roadmap-retos-datos/raw/main/Images/header_retos.jpg)
 Cada semana un nuevo reto para mejorar nuestros skills como analista o cientificos de datos [Dawoork/retos](https://dawoork.com/retos/)
 
