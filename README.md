@@ -169,7 +169,7 @@ Y alguna más...
 
 [![YouTube](https://img.shields.io/badge/YouTube-Dawoork_by_Leandro_Araque-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@leanaraque)
 </br>
-[![Twitch](https://img.shields.io/badge/Twitch-Dawoork-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/leanaraque)
+[![Twitch](https://img.shields.io/badge/Twitch-Leanaraque-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/leanaraque)
 [![Discord](https://img.shields.io/badge/Discord-Dawoork-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://dawoork.com/discord)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@leanaraque-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/leanaraque)
@@ -177,7 +177,7 @@ Y alguna más...
 [![TikTok](https://img.shields.io/badge/TikTok-@leanaraque-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@leanaraque)
 [![Facebook](https://img.shields.io/badge/Facebook-@leanaraqe-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/leanaraqe)
 </br>
-[![Link](https://img.shields.io/badge/Link_Site-dawoor.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://leanaraque.com)
+[![Link](https://img.shields.io/badge/Link_Site-Leanaraque.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://leanaraque.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro_Araque-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leanaraque)
 
 
