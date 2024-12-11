@@ -3,12 +3,12 @@
 
 ![https://github.com/dawoork](https://github.com/dawoork/dawoork/blob/main/Banner_v5.jpg)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7dVf0zms6w51iVWgRHuttQ?style=social)](https://www.youtube.com/@Dawoork?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/dawoork?style=social)](https://www.twitch.tv/dawoork)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7dVf0zms6w51iVWgRHuttQ?style=social)](https://www.youtube.com/@leanaraque?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/leanaraque?style=social)](https://www.twitch.tv/leanaraque)
 [![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](http://dawoork.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lean_dawoork?style=social)](https://twitter.com/lean_dawoork)
+[![Twitter Follow](https://img.shields.io/twitter/follow/leanaraque?style=social)](https://twitter.com/leanaraque)
 ![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/dawoork?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/leanaraque?style=social)
 
 Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños.
 
