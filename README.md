@@ -7,7 +7,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/leanaraque?style=social)](https://www.twitch.tv/leanaraque)
 [![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](http://dawoork.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/leanaraque?style=social)](https://twitter.com/leanaraque)
-![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/leanaraque?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/leanaraque?style=social)
 
 Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños.
