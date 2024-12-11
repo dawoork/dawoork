@@ -227,6 +227,5 @@ Y alguna más...
 
 ## Contacto y apoyo:
 
-[![Email](https://img.shields.io/badge/leandro@dawoork-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:leandro@dawoork.com)
-</br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/leandroaraque)
+[![Email](https://img.shields.io/badge/hey@leanaraque-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hey@leanaraque.com)
+
